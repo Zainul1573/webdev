@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+
+#about {
+    display: flex;
+}
+
+#p-1 {
+    background-color: antiquewhite;
+    width: 50%;
+    border-style: solid;
+}
+
+
+#team-image {
+    background-color: azure;
+    width: auto;
+    border-style: solid;
+}
